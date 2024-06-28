@@ -3,13 +3,18 @@
 <h1>APRESENTAÇÃO</h1>
 
 <h2>Dados Principais</h2>
+<h3>Olá, sou...</h3>
+
 * Nome: Matheus Gabriel Girardi
 * Idade: 21 anos
-* Instituição: UNIJUÍ
-* Naturalidade: 
-Olá, meu nome é Matheus Gabriel Girardi, tenho 21 anos, gaúcho residente de Ijuí e estudante de Ciência da Computação na UNIJUÍ.
+* Instituição: UNIJUÍ - Universidade Regional do Noroeste do Estado do Rio Grande do Sul
+* Naturalidade: Três de Maio - RS 🧉
+* Cidade de Residência: Ijuí - RS 🧉
+* Programa de Bolsas: AWS Cloud Data Engineering
 
-Sou muito interessado na tecnologia, tenho experiências com criação de jogos em Realidade Virtual usando Game Engines como a Unity e modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino. Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
+<h2>Outras Informações</h2>
+
+Sou muito interessado na tecnologia, tenho experiências com o desenvolvimento de um Metaverso Universitário e de jogos em Realidade Virtual usando Game Engines como a Unity e Unreal Engine, além de modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino.  Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
 
 Nessa nova jornada, estou estudando conceitos de Linux e Git, que é essencial para o início no programa de bolsas AWS Cloud Data Engineering.
 
