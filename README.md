@@ -1,5 +1,6 @@
-## APRESENTAÇÃO ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## APRESENTAÇÃO
 
 Olá, meu nome é Matheus Gabriel Girardi, tenho 21 anos, gaúcho residente de Ijuí e estudante de Ciência da Computação na UNIJUÍ.
 
