@@ -1,7 +1,12 @@
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## APRESENTAÇÃO
+<h1>APRESENTAÇÃO</h1>
 
+<h2>Dados Principais</h2>
+* Nome: Matheus Gabriel Girardi
+* Idade: 21 anos
+* Instituição: UNIJUÍ
+* Naturalidade: 
 Olá, meu nome é Matheus Gabriel Girardi, tenho 21 anos, gaúcho residente de Ijuí e estudante de Ciência da Computação na UNIJUÍ.
 
 Sou muito interessado na tecnologia, tenho experiências com criação de jogos em Realidade Virtual usando Game Engines como a Unity e modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino. Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
