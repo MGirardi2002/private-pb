@@ -21,11 +21,10 @@ Já durante o curso de Git e Github aprendi do zero todos uma grande parte de co
 # Evidências
 
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+Ao executar o código do exercício ele gera todos os arquivos e diretórios necessários do desafio, conforme visto nos comentários do sh. 
 
 
-![Evidencia 1](evidencias/sample.webp)
-
+![Evidencia 1](evidencias/NanoProcessamento_de_vendas.sh.jpeg)
 
 
 # Certificados
