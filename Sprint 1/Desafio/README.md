@@ -5,6 +5,7 @@
 Neste arquivo você irá apresentar suas entregas referentes ao desafio final. 
 O desafio está presente em cada sprint ao longo do estágio. Utilize o diretório "Desafio" para organizar seus artefatos e este README.md para fazer referência aos arquivos de código-fonte e demais entregáveis solicitados.
 
+Arquivos do desafio da sprint 1 inclusos dentro da pasta etapa-1, dentro do diretório [ecommerce](etapa-1/ecommerce). 
 
 # Etapas
 
