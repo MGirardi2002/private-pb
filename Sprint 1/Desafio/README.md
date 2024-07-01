@@ -10,8 +10,6 @@ Arquivos do desafio da sprint 1 inclusos dentro da pasta etapa-1, dentro do dire
 [Etapa I](etapa-1/entrega.txt)
 
 
-2. ...
-[Etapa II](etapa-2/entrega.txt)
 
 
 
