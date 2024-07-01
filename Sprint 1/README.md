@@ -1,14 +1,3 @@
-
-# Instruções
-
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
 # Cursos
 Durante o curso sobre Linux, adquiri conhecimentos essenciais para o uso e administração desse sistema operacional. Iniciei com uma compreensão teórica do Linux, sobre suas distribuições e também a definição de kernel. Reforcei comandos básicos como navegação no terminal, manipulação de arquivos e diretórios, usuários,; instalação e gerenciamento de pacotes e aplicativos, técnicas de busca e filtragem de arquivos, compactação e descompactação de arquivos utilizando ferramentas como tar e zip, entre outros que eu já havia tido contato em algumas matérias da faculdade.
 
