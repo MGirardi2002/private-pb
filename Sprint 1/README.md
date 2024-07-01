@@ -26,6 +26,17 @@ Ao executar o código do exercício ele gera todos os arquivos e diretórios nec
 
 ![Evidencia 1](evidencias/NanoProcessamento_de_vendas.sh.jpeg)
 
+Já no segundo código, ele possui um algoritmo para percorrer as pastas de vendas-*, e então pegar todos os arquivos de relatorios das pastas de backup e juntá-los em um unico relatório final.
+
+![Evidencia 2](evidencias/NanoConsolidador.jpeg)
+
+Ambos os arquivos SH utilizados precisaram do auxílio do comando chmod +x processamento_de_vendas.sh consolidador_de_processamento_de_vendas.sh, para que o crontab pudesse executá-los.
+
+![Evidencia 3](evidencias/crontab.jpeg)
+
+Por fim, o diretório ecommerce possui todos os arquivos pedidos no desafio.
+
+![Evidencia 4](evidencias/ecommerce.jpeg)
 
 # Certificados
 
