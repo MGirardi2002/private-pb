@@ -1,0 +1,16 @@
+Data do sistema operacional: 2024/06/20 15:27
+Data do primeiro registro de venda: 01/01/2023
+Data do último registro de venda: 31/01/2023
+Quantidade total de itens diferentes vendidos: 67
+Primeiras 10 linhas do arquivo backup:
+id,produto,quantidade,preço,data
+1,camiseta,4,37.82,01/01/2023
+2,calça,7,80.25,02/01/2023
+3,sapato,4,99.03,03/01/2023
+4,meia,22,8.61,04/01/2023
+5,cinto,11,15.81,05/01/2023
+6,camisa,4,38.52,06/01/2023
+7,bermuda,2,51.55,07/01/2023
+8,tênis,1,121.54,08/01/2023
+9,bone,17,11.37,09/01/2023
+10,casaco,5,142.0,10/01/2023
