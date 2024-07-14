@@ -1,7 +1,4 @@
-
-<h1>APRESENTAÇÃO</h1> ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<h2>Dados Principais</h2>
+<h1>APRESENTAÇÃO</h1> 
 <h3>Olá, sou...</h3>
 
 * Nome: Matheus Gabriel Girardi
@@ -17,6 +14,9 @@
 
 Sou muito interessado na tecnologia, tenho experiências com criação de jogos em Realidade Virtual usando Game Engines como a Unity e modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino. Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
 Sou muito interessado na tecnologia, tenho experiências com o desenvolvimento de um Metaverso Universitário e de jogos em Realidade Virtual usando Game Engines como a Unity e Unreal Engine, além de modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino.  Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<h2>Dados Principais</h2>
 
 Nessa nova jornada, estou no programa de bolsas AWS Cloud Data Engineering.
 
