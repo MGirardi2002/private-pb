@@ -22,8 +22,6 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 [Resposta Ex2.](exercicios/ex2.txt)
 
 
-
-
 # Evidências
 
 
@@ -38,6 +36,6 @@ Ao executar o código do exercício ... observei que ... conforme podemos ver na
 
 
 - Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+![Curso AWS](certificados/13660_3_5907563_1720981788_AWSCourseCompletionCertificate.pdf)
 
 
