@@ -1,26 +1,24 @@
 
-# Instruções
+<h1>APRESENTAÇÃO</h1> ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Neste arquivo você fará a sua apresentação, assim como a organização geral das suas entregas ao longo das Sprints. Esperamos que haja, minimamente:
- 
-- Uma seção de apresentação, com informações como cidade de residência, instituição de ensino, curso e semestre atual, experiências na área de tecnologia (se houver), hobbies e outras informações que você julgar importante para os monitores.
+<h2>Dados Principais</h2>
+<h3>Olá, sou...</h3>
 
-- Uma ou mais seções para descrever o que estiver aprendendo (resumo), de maneira estruturada. Na medida que você avança no programa de bolsas, deverá alimentar para criar um portfólio de seus estudos.
+* Nome: Matheus Gabriel Girardi
+* Idade: 21 anos
+* Instituição: UNIJUÍ
+* Naturalidade: 
+* Instituição: UNIJUÍ - Universidade Regional do Noroeste do Estado do Rio Grande do Sul
+* Naturalidade: Três de Maio - RS 🧉
+* Cidade de Residência: Ijuí - RS 🧉
+* Programa de Bolsas: AWS Cloud Data Engineering
 
-- De forma opcional, sugerimos que você adicione uma foto ao seu perfil do GitHub, pois utilizamos tal informação para facilitar a sua identificação ao longo do processo. Lembre-se que a informação é pública, tal qual você pode testar no exemplo do repositório da [
-The Apache Software Foundation](https://github.com/apache.png?size=250).
+<h2>Outras Informações</h2>
 
+Sou muito interessado na tecnologia, tenho experiências com criação de jogos em Realidade Virtual usando Game Engines como a Unity e modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino. Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
+Sou muito interessado na tecnologia, tenho experiências com o desenvolvimento de um Metaverso Universitário e de jogos em Realidade Virtual usando Game Engines como a Unity e Unreal Engine, além de modelagem 3D usando Blender, por ter participado ativamente de uma bolsa PROFAP do projeto Cidades Inteligentes da minha instituição de Ensino.  Também, possuo hobbies artísticos, pois sou muito ligado à desenhos e design de personagens.
 
-Para cada Sprint, crie um arquivo README.md na respectiva pasta. Este arquivo será o relato da sua entrega. Considere organizar neste arquivo a entrega do desafio, a apresentação dos códigos desenvolvidos, imagens que evidenciam a execução (se necessário) e as imagens dos certificados dos cursos solicitados.
-
-
-Veja um modelo de estrutura básica a seguir:
-
-___
-
-## Apresentação
-
-Olá, sou ...
+Nessa nova jornada, estou no programa de bolsas AWS Cloud Data Engineering.
 
 ## Sprints 
 
