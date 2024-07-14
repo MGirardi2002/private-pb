@@ -1,34 +1,67 @@
 
-# Instruções
-
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+# Cursos
 
 
 # Exercícios
 
 
 1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
+[Resposta Ex1.](exercicios/ex1.sql)
 
 2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+[Resposta Ex2.](exercicios/ex2.sql)
 
+3. ...
+[Resposta Ex3.](exercicios/ex3.sql)
+
+4. ...
+[Resposta Ex4.](exercicios/ex4.sql)
+
+5. ...
+[Resposta Ex5.](exercicios/ex5.sql)
+
+6. ...
+[Resposta Ex6.](exercicios/ex6.sql)
+
+7. ...
+[Resposta Ex7.](exercicios/ex7.sql)
+
+8. ...
+[Resposta Ex8.](exercicios/ex8.sql)
+
+9. ...
+[Resposta Ex9.](exercicios/ex9.sql)
+
+10. ...
+[Resposta Ex10.](exercicios/ex10.sql)
+
+11. ...
+[Resposta Ex11.](exercicios/ex11.sql)
+
+12. ...
+[Resposta Ex12.](exercicios/ex12.sql)
+
+13. ...
+[Resposta Ex13.](exercicios/ex13.sql)
+
+14. ...
+[Resposta Ex14.](exercicios/ex14.sql)
+
+15. ...
+[Resposta Ex15.](exercicios/ex15.sql)
+
+16. ...
+[Resposta Ex16.](exercicios/ex16.sql)
+
+II. ...
+[Resposta ExII.](exercicios/exII.sql)
 
 # Evidências
 
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+Ao criar as tabelas a partir do a tabela tb_locacao do desafio, e também redistribuir os dados, cheguei ao modelo relacional abaixo: 
 
-
-![Evidencia 1](evidencias/sample.webp)
+![Evidencia 1](evidencias/modelo_relacional_desafio.png)
 
 
 
