@@ -59,7 +59,7 @@ II. ...
 # Evidências
 
 
-Ao criar as tabelas a partir do a tabela tb_locacao do desafio, e também redistribuir os dados, cheguei ao modelo relacional abaixo: 
+Ao criar as tabelas a partir do a tabela tb_locacao do desafio, e também redistribuir os dados, usando os arquivos .sql: [normalização](Desafio/etapa-1/normalizacao.sql) e [insert](Desafio/etapa-1/insert.sql) cheguei ao modelo relacional abaixo: 
 
 ![Evidencia 1](evidencias/modelo_relacional_desafio.png)
 
