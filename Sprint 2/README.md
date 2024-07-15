@@ -1,9 +1,14 @@
 
 # Cursos
+O curso de SQL estudado abordou tópicos essenciais para todo desenvolvedor de banco de dados. O curso começa tratando dos comandos básicos, que são fundamentais para toda e qualquer interação com dados utilizando SQL. Em seguida, falou sobre os operadores, que são cruciais para realizar operações e comparações, enquanto as funções de agregação permitem resumir, sumarizar e analisar conjuntos de dados. 
 
+Também é mister destacar o estudo de joins, que são uma das mais importantes funções em SQL para combinar dados de diferentes tabelas, habilidade essencial para qualquer desenvolvedor que trabalha com dados. Uniões e Subqueries são importantes para criar consultas complexas e eficientes. Também, ao final do curso, foi reforçado os métodos de construção e manutenção de tabelas.
+
+Resumidamente, esses tópicos foram muito bem estruturados, indubitavelmente necessários para aprender desenvolver, otimizar e manter sistemas de banco de dados robustos e confiáveis.
+
+Além disso foi estudado o curso da AWS Partner, que foi muito interessante para entender os conceitos básicos de nuvem de forma organizada, bem como os serviços da Amazon para cloud, e como vender os produtos dela com vendas conjuntas.
 
 # Exercícios
-
 
 1. ...
 [Resposta Ex1.](exercicios/ex1.sql)
@@ -64,6 +69,7 @@ Ao criar as tabelas a partir do a tabela tb_locacao do desafio, e também redist
 ![Evidencia 1](evidencias/modelo_relacional_desafio.png)
 
 
+![Evidencia 2](evidencias/modelo_dimensional_desafio.png)
 
 # Certificados
 
