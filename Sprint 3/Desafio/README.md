@@ -1,21 +1,8 @@
+# Desafio
+1. Etapa Única
+   
+  [Etapa I](etapa-1/entrega.txt)
 
-# Instruções
+O desafio em questão pode ser evidenciado em apenas uma etapa.
 
-
-Neste arquivo você irá apresentar suas entregas referentes ao desafio final. 
-O desafio está presente em cada sprint ao longo do estágio. Utilize o diretório "Desafio" para organizar seus artefatos e este README.md para fazer referência aos arquivos de código-fonte e demais entregáveis solicitados.
-
-
-# Etapas
-
-
-1. ...
-[Etapa I](etapa-1/entrega.txt)
-
-
-2. ...
-[Etapa II](etapa-2/entrega.txt)
-
-
-
-
+Basicamente, foi proposto um desafio relacionado a tratamento de dados de um dataset, o qual, deveria também ser feito alguns tipos de pesquisas, como processar gráficos para análise
