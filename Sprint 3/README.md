@@ -89,6 +89,9 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa√
 25. ...
 [Resposta Ex25.](exercicios/ex25.py)
 
+### Exerc√≠cio ETL com Python
+[Resposta ExETL.](exercicios/Exercicio_ETL.ipynb)
+
 
 # Evid√™ncias
 
@@ -167,6 +170,7 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa√
 
 25. Exercicio 25
 ![Evidencia Ex25.](evidencias/evex25.png)
+
 
 ## Evid√™ncias Desafio
 
