@@ -1,15 +1,15 @@
 
-# Instruções
+# Cursos
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+Durante a Sprint 3, o foco dos estudos foi todo voltado para o aprendizado da linguagem Python, abordando também o tratamento de dados e a geração de gráficos. O curso "Python 3 - Curso Completo do Básico ao Avançado" disponibilizado pela Udemy foi essencial para o desenvolvimento das atividades e do desafio final.
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+No curso, foram tratados desde a instalação da linguagem e configuração do ambiente no computador, até a explicação do que é e para que serve o Python. A familiarização com a linguagem ocorreu por meio de comandos básicos e explicações detalhadas sobre a sintaxe e seu funcionamento. Passar pelos fundamentos foi extremamente útil, pois formaram uma base sólida para o entendimento e desenvolvimento das atividades.
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+O curso passou por várias etapas, incluindo tópicos específicos como estruturas de controle, manipulação de arquivos CSV (de grande utilidade para o desenvolvimento do desafio), conhecimento de funções, orientação a objetos, entre outros. Em resumo, o curso foi de extrema importância para estabelecer os pilares não só do Python, mas também da programação e lógica em geral, que serão utilizados durante todo o programa de bolsas.
 
+Além disso, foi proposto o estudo do curso "AWS: Cloud Economics". Embora mais sucinto, este curso foi importante para o entendimento de conceitos cruciais para as próximas etapas do programa, reforçando o entendimento das condutas da empresa e seus pilares.
+
+Este conjunto de estudos proporcionou uma base teórica e prática essencial para o desenvolvimento das atividades e para o progresso contínuo no programa de bolsas.
 
 # Exercícios
 
@@ -174,17 +174,40 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 ## Evidências Desafio
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+Estas três células preparam os dados do arquivo CSV, removem duplicatas e convertem colunas específicas para o formato numérico para facilitar análises subsequentes.
 
 
-![Evidencia 1](evidencias/sample.webp)
+![Evidencia 1](evidencias/evidencias_desafio/evde1.png)
 
+Depois, foi feito o plot de um gráfico de barras, com os parâmetros: Apps x Numero de instalação, retornando um top 5 dos apps.
 
+![Evidencia 1](evidencias/evidencias_desafio/evde2.png)
+
+Nesse Pie Chart, a análise foi a quantidade quantidade de apps por categoria.
+
+![Evidencia 1](evidencias/evidencias_desafio/evde3.png)
+
+Nessas duas outras células, o foco era encontrar o aplicativo mais caro do dataset e também coletar a quantidade de apps com o Content rating "Mature 17+".
+
+![Evidencia 1](evidencias/evidencias_desafio/evde4.png)
+
+Na primeira célula, o foco era encontrar o top 10 apps por número de reviews. Já na segunda acontece duas consultas diferentes, uma para encontrar o top 5 apps por numero de review e por categoria "Medical" e a outra encontrar o app menos instalado do banco.
+
+![Evidencia 1](evidencias/evidencias_desafio/evde5.png)
+
+Esse gráfico de linhas mostra a relação entre faixas de preço e classificações de conteúdo para aplicativos da Google Play Store. No eixo x, apresenta as faixas de preço, e no y o número de apps.
+
+![Evidencia 1](evidencias/evidencias_desafio/evde6.png)
+
+O último gráfico mostra um histograma, que analisa a distribuição do tamanho dos aplicativos em diferentes faixas de número de instalações.
+
+![Evidencia 1](evidencias/evidencias_desafio/evde7.png)
+
+![Evidencia 1](evidencias/evidencias_desafio/evde8.png)
 
 # Certificados
 
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do Curso AWS
+![Curso AWS](certificados/Certificate_CloudEconomics.pdf)
 
 
