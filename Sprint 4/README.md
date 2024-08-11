@@ -13,19 +13,51 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 # Exercícios
 
-
 1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
+[Resposta Ex1.](exercicios/ex01.py)
 
 2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+[Resposta Ex2.](exercicios/ex02.py)
 
+3. ...
+[Resposta Ex3.](exercicios/ex03.py)
 
+4. ...
+[Resposta Ex4.](exercicios/ex04.py)
+
+5. ...
+[Resposta Ex5.](exercicios/ex05.py)
+
+6. ...
+[Resposta Ex6.](exercicios/ex06.py)
+
+7. ...
+[Resposta Ex7.](exercicios/ex07.py)
 
 
 # Evidências
 
+## Evidências Exercícios
+1. Exercicio 1
+![Evidencia Ex1.](evidencias/evex01.png)
+
+2. Exercicio 2
+![Evidencia Ex2.](evidencias/evex02.png)
+
+3. Exercicio 3
+![Evidencia Ex3.](evidencias/evex03.png)
+
+4. Exercicio 4
+![Evidencia Ex4.](evidencias/evex04.png)
+
+5. Exercicio 5
+![Evidencia Ex5.](evidencias/evex05.png)
+
+6. Exercicio 6
+![Evidencia Ex6.](evidencias/evex06.png)
+
+7. Exercicio 7
+![Evidencia Ex7.](evidencias/evex07.png)
 
 Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
 
