@@ -107,6 +107,6 @@ E após, usar um arquivo dockerfile para construção da imagem e rodar os coman
 
 
 - Certificado do Curso AWS
-[Curso AWS](certificados/sample.png)
+[Curso AWS](certificados/AWS-Course-Completion-Certificate.pdf)
 
 
