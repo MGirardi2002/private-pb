@@ -1,14 +1,14 @@
 
 # Instruções
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
+Durante a Sprint 4, o foco dos estudos foi totalmente voltado para o aprendizado do Docker, abordando desde conceitos básicos até práticas avançadas de orquestração. O curso "Docker para desenvolvedores" disponível na Udemy foi fundamental para o desenvolvimento das atividades e para a consolidação do conhecimento sobre containers.
 
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
+No curso, foram abordados desde a introdução aos conceitos de containers e Docker, passando pela instalação e configuração do ambiente. A familiarização com a ferramenta ocorreu por meio de comandos básicos, criando e gerenciando containers e imagens, conexão com redes para comunicação com múltiplos containers, formato YAML, Docker Swarm para orquesteração, Kubernetes, entre outros. Isso foi essencial para formar uma base sólida de compreensão sobre o uso de Docker.
 
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+Este curso foi de extrema importância para consolidar conhecimentos práticos que serão utilizados ao longo do desenvolvimento do programa de bolsas e no desafio final relacionado à aplicação de containers em ambiente de produção.
+
+Acrescentando também que foi introduzido uma outra sessão do curso de Python, que ensinou valiosos recursos de programação funcional, como lambdas, high order functions, etc. que foram utilizados nos exercícios da sprint.
+
 
 
 # Exercícios
@@ -39,37 +39,74 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 
 ## Evidências Exercícios
 1. Exercicio 1
+
 ![Evidencia Ex1.](evidencias/evex01.png)
 
 2. Exercicio 2
+
 ![Evidencia Ex2.](evidencias/evex02.png)
 
 3. Exercicio 3
+
 ![Evidencia Ex3.](evidencias/evex03.png)
 
 4. Exercicio 4
+
 ![Evidencia Ex4.](evidencias/evex04.png)
 
 5. Exercicio 5
+
 ![Evidencia Ex5.](evidencias/evex05.png)
 
 6. Exercicio 6
+
 ![Evidencia Ex6.](evidencias/evex06.png)
 
 7. Exercicio 7
+
 ![Evidencia Ex7.](evidencias/evex07.png)
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
 
+## Evidências Desafio
 
-![Evidencia 1](evidencias/sample.webp)
+### Etapa 1
+
+Primeiramente, começa-se o desafio com um a seguinte proposta. a Etapa 1 se resume a criar uma imagem e rodar um arquivo python solicitado do desafio que executa um seguinte script, e então, dar "run" no container. Para isso, deveria criar um arquivo Dockerfile com instruções que irão construir a imagem do desafio. Abaixo as instruções.
+
+![Dockerfile1.](evidencias/dockerfile_carguru.png)
+
+Após isso, é necessário rodar o comando docker build -t no cmd para construir a imagem, estando dentro do diretório onde está o Dockerfile.
+
+![Evidencia 1 Desafio.](evidencias/evidencia1_desafio.png)
+
+Então, pode-se usar o comando docker run para rodar o container.
+
+![Evidencia 2 Desafio.](evidencias/evidencia2_desafio.png)
+
+### Etapa 2
+
+A segunda etapa do desafio se baseava em um questionamento sobre se é possível reutilizar um container, o qual é possível, utilizando o comando docker ps-a para listar os containers que já foram rodados, e usando o comando start (idcontainer) para reutilizar o container selecionado.
+
+![Evidencia 3 Desafio.](evidencias/evidencia3_desafio.png)
+
+### Etapa 3
+
+A terceira etapa requeria que fosse desenvolvido outro container, o qual pudera receber inputs durante a execução. Para isso, foi criado o arquivo mascarar-dados.py, que contém um script que gera um hash de uma string inserida por meio do algoritmo SHA-1, e então, imprime na tela.
+
+![Evidencia 4 Desafio.](evidencias/evidencia_mascarar-dados.png)
+
+E após, usar um arquivo dockerfile para construção da imagem e rodar os comandos no terminal para construí-la e executá-la.
+
+![Evidencia 5 Desafio.](evidencias/dockerfile_etapa_4.png)
+![Evidencia 3 Desafio.](evidencias/evidencia4_desafio.png)
+
 
 
 
 # Certificados
 
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do Curso AWS
+[Curso AWS](certificados/sample.png)
 
 
