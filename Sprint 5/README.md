@@ -5,6 +5,8 @@ Também, foi introduzido um curso da AWS, destinado a treinamento para o exame A
 
 # Evidências
 
+As evidências relacionadas ao desafio se encontram no README do diretório "Desafio", que pode ser evidenciado clicando [aqui](Desafio/README.md). 
+
 # Certificados
 - Certificado do Cloud Quest
 ![Curso Cloud Quest](certificados/certified_cloud_quest.png)
