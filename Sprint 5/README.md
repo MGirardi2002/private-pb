@@ -1,43 +1,12 @@
+# Resumo
+Durante a Sprint 5, não houveram cursos para assistir como houveram nas sprints anteriores. O sprint em si foi envolto de um jogo da AWS, chamado "Cloud Quest", que possuía vários "minigames" os quais serviam de simulações de possíveis situações reais que pudessem ocorrer quando estivesse trabalhando com os serviços da AWS, logo, todos eles ensinavam como usar esses serviços. Exemplos deles, seriam: EC2, S3, IAM, VPCs... etc.
 
-# Instruções
-
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
-# Exercícios
-
-
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
+Também, foi introduzido um curso da AWS, destinado a treinamento para o exame AWS Certified Cloud Practitioner, que será efetuado no final do Programa de Bolsas.
 
 # Evidências
 
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
 # Certificados
+- Certificado do Cloud Quest
+![Curso Cloud Quest](certificados/certified_cloud_quest.png)
 
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
-
+![Badge](certificados/aws-cloud-quest-cloud-practitioner.png)
