@@ -12,3 +12,5 @@ As evidências relacionadas ao desafio se encontram no README do diretório "Des
 ![Curso Cloud Quest](certificados/certified_cloud_quest.png)
 
 ![Badge](certificados/aws-cloud-quest-cloud-practitioner.png)
+
+![Certified Cloud Practioner](certificados/AWS_Skill_Builder_Course_Completion_Certificate.pdf)
