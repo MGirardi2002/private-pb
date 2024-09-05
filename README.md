@@ -1,10 +1,11 @@
 <h1>APRESENTAÇÃO</h1> 
 <h3>Olá, sou...</h3>
 
+<img src="Sprint%201/certificados/matheus_girardi.jpg" alt="Bolsista: Matheus Girardi" width="300"/>
+
+
 * Nome: Matheus Gabriel Girardi
 * Idade: 21 anos
-* Instituição: UNIJUÍ
-* Naturalidade: 
 * Instituição: UNIJUÍ - Universidade Regional do Noroeste do Estado do Rio Grande do Sul
 * Naturalidade: Três de Maio - RS 🧉
 * Cidade de Residência: Ijuí - RS 🧉
@@ -20,10 +21,12 @@ Nessa nova jornada, estou no programa de bolsas AWS Cloud Data Engineering.
 
 ## Sprints 
 
-1. [Sprint 1](Sprint%201/README.md)
-2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md)
-4. ...
+1. [Linux e Git/GitHub](Sprint%201/README.md)
+2. [SQL para análise de dados](Sprint%202/README.md)
+3. [Aprendendo Python](Sprint%203/README.md)
+4. [Python e Docker](Sprint%204/README.md)
+5. [Cloud Quest](Sprint%205/README.md)
+6. [Sprint 6](Sprint%206/README.md)
 
 ___
 
