@@ -1,10 +1,10 @@
 import boto3
 from botocore.exceptions import NoCredentialsError
 
-aws_access_key_id = "ASIAQEIP27PQ4HTAHDTX"
-aws_secret_access_key = "1+EIY32CIYb5eh7fH7eWnY1lC2XTEBl9Mvy/rv2+"
-aws_session_token = "IQoJb3JpZ2luX2VjEDcaCXVzLWVhc3QtMSJGMEQCIA7nYeqF/YeAot8epEVXuxweOoVArgqZuMgqW0qkW3k5AiA/2NyOC4VjkhvudsrJG1iZ90ZmRsxUjC6HzLq3+jcldyqjAwhfEAAaDDAwOTE2MDAzMTIwMSIMHqk2B5w9mV5zZ3fMKoADWSI/b/L+ESH6y6CRkPvgfl46Qv4VBHb/JF2GKUtwXtR5e6G3ONgkRnsbzaKVMHUQ57JNHXUXQwg5YYEr0DL1uEjqShSHuKfxWvfZKs1oWETJLUsXJ/ceQ0oyTUF/3VfICzYBgvjvjXXkX8BcaZFWlvfJy7oKBErYizbDMsuaIFbfHzLvcHIKN245a76iD9M7lb6tWMLvzmxLnPVmKTms2Bo111a3/h5nnaYtfkt5twjssvdANwQ1PZ64ctZpxRj+VEuoWGnisfizjLYA0qkk0k3bVapN/HxEok9k6zp9arIEVk06t4/hx5WwM+9Xo0rSatpKSL46YGpRKX6vuBW3H2xPIai++6Od2L7mXk97SnSc1PRYaVuGr2193svXfv4ZbQFgi/tqRdg3Eo3eiFHvdcJxZFgm3NkY+pTectrQ0OcsRt4Gx3BvuJnoMKWtT0aakTdte5tAoaztFufss3bqknMgq+YsfPaA0ELGamWB0oBYewxucf0/wPGUMBCw2fXeMJCD/LYGOqcBY1DJlW2Dff1J3fFaQPNJtzcxa/+r71in+x2O7pGRcnXL6XIOXyGLQ2pBAl8F9Y4ndz7onT2mYLs5Jwk6y1KZNnbbGL6OnWQwMjpskhp/E5Sjh2Q+RwtYF2W89Hxr6wKHB/EnDe14Z03/Nu7A6mY9fA2j277+3nCW60xX7YmjOnVY8zJDuc606PSVtYnOVP9K2z7yKbkHVkTo/CU5tiZbq+SeTU94hvU="
-region_name = "us-east-1"
+aws_access_key_id = ""
+aws_secret_access_key = ""
+aws_session_token = ""
+region_name = ""
 
 bucket_name = "meubuckets6"
 CSV_PATH_MOVIES = "/app/data/movies.csv"
