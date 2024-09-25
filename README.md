@@ -26,7 +26,8 @@ Nessa nova jornada, estou no programa de bolsas AWS Cloud Data Engineering.
 3. [Aprendendo Python](Sprint%203/README.md)
 4. [Python e Docker](Sprint%204/README.md)
 5. [Cloud Quest](Sprint%205/README.md)
-6. [Sprint 6](Sprint%206/README.md)
+6. [Serviços AWS](Sprint%206/README.md)
+7. [Apache Spark](Sprint%207/README.md)
 
 ___
 
