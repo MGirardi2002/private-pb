@@ -166,9 +166,10 @@ A função criar_pacote cria um ambiente virtual no diretório local e instala a
 A função criar_zip armazena tanto o código da Lambda quanto suas dependências em um arquivo zip, e prepara para o envio à AWS.
 
 Já a função criar_atualizar_lambda, primeiro inicia a sessão com as credenciais do início do código, e então define a lógica de criação ou atualização da função Lambda. Ela verifica se o diretório onde o pacote da função será criado já existe, e se sim, limpa esse diretório. Após, verifica se a função Lambda já existe. Se sim, atualiza o código, se não, cria uma nova função com as configurações necessárias (runtime, role, handler, variáveis de ambiente...). 
+
 Por fim, confirma se a função foi criada ou atualizada com sucesso, automatizando o processo de deploy da Lambda na AWS.
 
-O código pode ser visto clicando [aqui](../Desafio/lambda-function.py).
+O código completo pode ser visto clicando [aqui](../Desafio/lambda-function.py).
 
 ## Evidências 
 
