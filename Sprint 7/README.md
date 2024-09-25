@@ -1,43 +1,34 @@
 
-# Instruções
+# Resumo
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
+Na sprint 7, o foco esteve no desenvolvimento de competências em processamento distribuído com PySpark por meio do curso "Formação Spark com Pyspark". Foram abordados temas que iam desde a introdução ao PySpark e sua configuração no ambiente local, até a manipulação avançada de DataFrames e RDDs para trabalhar com grandes volumes de dados. Além disso, houve um aprofundamento nas técnicas de integração do Spark com SQL, permitindo consultas otimizadas em grandes bases de dados. O curso também explorou a criação de pipelines de dados e aplicações reais, além de cobrir boas práticas de otimização de desempenho. Ao final, foram discutidos tópicos complementares como monitoramento de jobs e ferramentas adicionais. O objetivo foi adquirir habilidades práticas e avançadas para o uso eficiente do PySpark em projetos de big data e análise distribuída.
 
 # Exercícios
 
+## Exercício Contador de Palavras
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+Primeiramente, foi feito o pull da imagem que será utilizada para desenvolver o exercício, no caso, a imagem "jupyter/all-spark-notebook".
 
+![Imagem Pull.](exercicios/contador/01pull.png)
 
-2. ...
+Logo, a iniciação do container usando o comando docker run -p 8888:8888 -it --name contador-de-palavras jupyter/all-spark-notebook foi feita (não há imagens pois foi feita em outro dia). Quando o comando roda, ele inicia a imagem e mostra os links de token para abrir no jupyter.
+
+![Imagem Token.](exercicios/contador/02token.png)
+
+Dentro do Jupyter foi criado um notebook chamado contador-de-palavras com duas células. Utilizou-se a biblioteca Python requests para fazer o download do arquivo README.md do meu repositório GitHub. Como o repositório é privado, um token foi necessário para autenticação. E depois isso, salva o arquivo como README.md.
+
+Na segunda célula é iniciada uma sessão do Spark usando o PySpark. O SparkSession é o ponto de entrada para todas as funcionalidades de dados estruturados do Spark. Após a leitura do arquivo, ele faz uma série de tratamento das palavras, como deixá-las todas minúsculas, remover os links de http, e retirar outros caracteres que não são letras, números ou espaços. Depois da limpeza, separa-se as palavras utilizando espaços como delimitadores, e em seguida, conta quantas vezes cada palavra aparece no texto.
+
+A última expressão do código serve para exibir todas as linhas do DataFrame resultante, sem truncar as palavras.
+
+![Imagem Result.](exercicios/contador/result.png)
+
+---
+
+## Exercício Glue
+
 [Resposta Ex2.](exercicios/ex2.txt)
 
 
-
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
 
 
