@@ -8,7 +8,7 @@ Nesta sprint, o foco foi higienizar a camada Raw do bucket S3, utilizando jobs d
 
 ## Geração e massa de dados
 
-Primeiro, foi requisitado dois warmups simples de geração e 
+Primeiro, foi requisitado dois warmups simples de randomização, listas e geração de arquivo csv.
 ![WarmUp1.](exercicios/warmup1.png)
 
 ![WarmUp2.](exercicios/warmup2.png)
