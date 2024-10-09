@@ -1,43 +1,22 @@
 
-# Instruções
+# Resumo
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
+Nesta sprint, o foco foi higienizar a camada Raw do bucket S3, utilizando jobs do AWS Glue para transformar dados brutos em um formato padronizado e limpo, armazenando-os na camada Trusted no formato Parquet. Utilizamos PySpark para leitura e manipulação dos dados, com comandos como trim() para limpar espaços em branco, filter() para filtrar gêneros específicos, como "Sci-Fi", entre outros comandos..
 
 
 # Exercícios
 
+## Geração e massa de dados
 
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
+Primeiro, foi requisitado dois warmups simples de geração e 
+![WarmUp1.](exercicios/warmup1.png)
 
+![WarmUp2.](exercicios/warmup2.png)
 
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
+![WarmUp2Evidence.](exercicios/animaiscsv.png)
 
+Após isso, o exercício de verdade começa. Nele, era necessário gerar um arquiv com 10 milhões de nomes aleatórios, usando a lib names, que foi baixada em uma venv. Primeiramente, requisitava 3000 nomes únicos para armazenar em uma lista, com a função get_full_name(); Então, escolhendo aleatoriamente combinações dos nomes da lista aux, ele armazena em dados e 10 milhões de combinações, e então escreve no arquivo nomes_aleatorios.txt.
 
+![WarmUp2Evidence.](exercicios/ex01.png)
 
-
-# Evidências
-
-
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
-
-
-# Certificados
-
-
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
-
-
+![WarmUp2Evidence.](exercicios/nomesaleatorios.png)
