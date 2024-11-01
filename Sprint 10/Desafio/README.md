@@ -22,6 +22,7 @@ Aqui está a representação das ligações dos conjuntos de dados, basicamente,
 ## Introdução do Dashboard
 
 A primeira página do dashboard serve como uma introdução para a análise, que se baseia em uma amostra de 4698 filmes de Ficção Científica, e é destinada a investigar a popularização do tema de filmes sobre alienígenas, levando como ponto de pesquisa o lançamento do primeiro filme da franquia "Alien", de 1979.
+
 De início já se faz uma comparação com a média de popularidade dos filmes na amostra (10,28) e especificamente daqueles que mencionam "Alien" em suas sinopses (15,3), e foi utilizado um filtro nos dados de 'overview' para a palavra-chave. Também é evidenciado a média de orçamento geral de todos os filmes da amostra, bem como a média para cada ano (do filme mais velho para o filme mais novo), em dólares americanos.
 
 ![Etapa I](../evidencias/06qs.png)
